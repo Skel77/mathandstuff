@@ -1,27 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
 body {
-	.example-element {
-    /* Specify the path to your background image */
-    background-image: url('img/bg.jpg');
-
-    /* Set the background size */
-    background-size: 200px 200px; /* or contain, or a specific size (e.g., 200px 200px) */
-
-    /* Set the background repeat behavior */
-    background-repeat: no-repeat; /* or repeat, repeat-x, repeat-y */
-
-    /* Set the background position */
-    background-position: center center; /* You can use keywords like center or percentages (e.g., 50% 50%) */
-    
-    /* Optional: Add a background color if the image doesn't cover the entire element */
-    background-color: ;
-    
-    /* Optional: Add padding or margin to the element to control spacing */
-    padding: 20px;
-    margin: 10px;
-}
+	background-color: #212121;
    color: white;
-	font-family: 'Kanit', cursive;
+	font-family: 'Comfortaa', cursive;
 }
 button {
 	width: fit-content;
@@ -35,7 +16,7 @@ button {
 }
 
 button:hover {
-  background: #8fce00;
+  background: #adad43;
   color: white;
 }
 
