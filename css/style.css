@@ -5,7 +5,7 @@ body {
     background-image: url('img/bg.jpg');
 
     /* Set the background size */
-    background-size: cover; /* or contain, or a specific size (e.g., 200px 200px) */
+    background-size: 200px 200px; /* or contain, or a specific size (e.g., 200px 200px) */
 
     /* Set the background repeat behavior */
     background-repeat: no-repeat; /* or repeat, repeat-x, repeat-y */
